@@ -3,6 +3,7 @@ import { IConfig } from './src/types'
 const c: IConfig = {
   // [Mondatory], Please replace following Github url with your own Github address which you forked in.
   // [必填], 请填写您的仓库地址
+  // 更新
   gitRepoUrl: 'https://github.com/youdoc/nav',
 
   // Deployment branch name
