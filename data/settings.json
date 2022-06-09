@@ -1,17 +1,17 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "https://cdn.jsdelivr.net/gh/youdoc/nav@image/nav-1654783813648-template.jpg",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
-  "showGithub": true,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "showGithub": false,
+  "title": "程序员常用网站导航",
+  "description": "程序员常用网站导航",
+  "keywords": "导航,开发工具,开发资源,社区站点,前端资源,设计师,实用工具,学习资源,运营,网络安全,node.js",
   "theme": "Light",
   "appTheme": "App",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
-  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
+  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?0371d4370a9881fbfccdb2fac0413818",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
