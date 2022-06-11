@@ -16,7 +16,7 @@
   "simThemeImages": [
     {
       "src": "https://cdn.jsdelivr.net/gh/youdoc/nav@image/nav-1654909497957-joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg",
-      "url": "",
+      "url": "https://github.com/201206030",
       "width": null,
       "height": null
     }
@@ -26,14 +26,8 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
-      "url": "",
+      "src": "https://cdn.jsdelivr.net/gh/youdoc/nav@image/nav-1654910287258-joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg",
+      "url": "https://github.com/201206030",
       "width": null,
       "height": null
     }
@@ -43,7 +37,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://cdn.jsdelivr.net/gh/youdoc/nav@image/nav-1654910257297-joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg",
       "url": "",
       "width": null,
       "height": null
